@@ -4,5 +4,6 @@ concat(number, ' ', street) as address,
 city_id
 from 
 addresses
-where id >= 20;
+where id >= 20
+
 
