@@ -5,6 +5,6 @@ SELECT
 	concat(first_name, ' ', last_name) AS full_name,
 	job_title
 FROM
-	employees 
+	employees
 WHERE
 	manager_id = 184;
