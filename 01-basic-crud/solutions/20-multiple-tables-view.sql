@@ -8,3 +8,5 @@ JOIN
 	addresses AS a
 ON 
 	a.id = e.address_id
+ORDER BY 
+	address;
